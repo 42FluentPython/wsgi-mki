@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Issue template
+about: Follow template
 title: ''
 labels: ''
 assignees: ''
