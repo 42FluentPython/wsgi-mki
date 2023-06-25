@@ -1,14 +1,5 @@
----
-name: Issue template
-about: Follow template
-title: 'Type title (#issue number)'
-labels: ''
-assignees: ''
+Please help us process issues more efficiently by filing an issue using one of the following templates:
 
----
+https://github.com/42FluentPython/wsgi-mki/issues/new/choose
 
-### Write tasks list
-
-- [ ] Task 1
-
-<!-- Use ChatGPT for English -->
+Thank you!
