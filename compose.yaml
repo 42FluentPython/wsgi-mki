@@ -1,1 +1,4 @@
 # https://docs.docker.com/compose/compose-file/03-compose-file/
+#
+# $ docker compose version
+# Docker Compose version v2.6.1
