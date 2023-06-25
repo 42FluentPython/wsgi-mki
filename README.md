@@ -4,8 +4,6 @@ After reading Fluent Python, we decided to create own WSGI.
 
 # Rules
 
-- Follow issue template
-- Follow pull Request template 
-- Use docker
-- Use docker compose
+- Follow issue, pull request template 
+- Use docker, docker compose
 - Python version: 3.11
