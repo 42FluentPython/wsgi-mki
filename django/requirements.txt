@@ -1,0 +1,4 @@
+# Requirements File Format: https://pip.pypa.io/en/stable/reference/requirements-file-format/
+
+# https://www.djangoproject.com/
+django==4.2.2

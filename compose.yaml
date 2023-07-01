@@ -1,4 +1,17 @@
-# https://docs.docker.com/compose/compose-file/03-compose-file/
+# https://docs.docker.com/compose/compose-file/
 #
 # $ docker compose version
 # Docker Compose version v2.6.1
+
+services:
+  web-server:
+    build:
+      context: ./nginx
+    ports:
+      - "8080:80"
+    environment:
+      - NGINX_HOST=foobar.com
+      - NGINX_PORT=80
+  wf:
+    build:
+      context: ./django
